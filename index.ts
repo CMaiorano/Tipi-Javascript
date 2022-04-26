@@ -24,7 +24,8 @@ export const user : User = {
   name : "Fabio",
   coords : {
     lat : 123,
-    lng : 456}
+    lng : 456
+  }
 }
 
 /*export const user: any = {
